@@ -1,0 +1,5 @@
+com\example\springbootwebsockets\SpringBootWebsocketsApplication.class
+com\example\springbootwebsockets\GreetingController.class
+com\example\springbootwebsockets\HelloMessage.class
+com\example\springbootwebsockets\WebSocketConfig.class
+com\example\springbootwebsockets\Greeting.class
